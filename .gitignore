@@ -133,3 +133,5 @@ Data/Covid-19/time_series_covid_19_confirmed.csv
 Data/Covid-19/time_series_covid_19_deaths_US.csv
 Data/Covid-19/time_series_covid_19_deaths.csv
 Data/Covid-19/time_series_covid_19_recovered.csv
+Data/Covid-19/country_vaccinations_by_manufacturer.csv
+Data/Covid-19/country_vaccinations.csv
