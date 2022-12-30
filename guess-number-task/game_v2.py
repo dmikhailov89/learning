@@ -29,7 +29,6 @@ def random_predict(number: int = np.random.randint(1, 101)) -> int:
             mn = predict_number
         else:          
             break  # выход из цикла если угадали
-        print(number, mn, mx, count)
     return count
 
 def score_game(random_predict) -> int:
