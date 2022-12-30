@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Data/Covid-19/covid_19_data.csv
+Data/Covid-19/time_series_covid_19_confirmed_US.csv
+Data/Covid-19/time_series_covid_19_confirmed.csv
+Data/Covid-19/time_series_covid_19_deaths_US.csv
+Data/Covid-19/time_series_covid_19_deaths.csv
+Data/Covid-19/time_series_covid_19_recovered.csv
